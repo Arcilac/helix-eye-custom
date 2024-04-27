@@ -1,6 +1,5 @@
 export const template = (html: string): string => {
-  return(
-    `
+  return `
     <!DOCTYPE html>
     <html lang="es">
     
@@ -22,5 +21,4 @@ export const template = (html: string): string => {
     
     </html>    
     `
-  )
 }

@@ -1,9 +1,9 @@
-import styled from 'styled-components';
+import styled from "styled-components"
 
 export const MenuButton = styled.button`
-  display: ${({ hidden }) => hidden ? 'none' : 'block'};
+  display: ${({ hidden }) => (hidden ? "none" : "block")};
   border: none;
-  background: linear-gradient(270deg, #2646A6,#0C87F2);
+  background: linear-gradient(270deg, #2646a6, #0c87f2);
   font-size: 1.5rem;
   color: white;
   border-radius: 50%;
@@ -25,11 +25,11 @@ export const MenuContainer = styled.menu`
   height: 100vh;
   position: fixed;
   top: 0;
-  right: ${({hidden}) => hidden ? 'calc(-300px - 4rem)' : '0px'};
+  right: ${({ hidden }) => (hidden ? "calc(-300px - 4rem)" : "0px")};
   z-index: 1;
   transition: 200ms;
-  background: #2646A6;
-  box-shadow: -16px 10px 41px 0px rgba(133,133,133,0.66);
+  background: #2646a6;
+  box-shadow: -16px 10px 41px 0px rgba(133, 133, 133, 0.66);
 
   button {
     border: none;

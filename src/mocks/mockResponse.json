@@ -11,9 +11,7 @@
             "title": "Andromeda Galaxy",
             "nasa_id": "PIA04921",
             "date_created": "2003-12-10T22:41:32Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "This image is from NASA Galaxy Evolution Explorer is an observation of the large galaxy in Andromeda, Messier 31. The Andromeda galaxy is the most massive in the local group of galaxies that includes our Milky Way.",
             "secondary_creator": "NASA/JPL/California Institute of Technology",
@@ -36,10 +34,7 @@
             "title": "Galaxy NGC5474",
             "nasa_id": "PIA04634",
             "date_created": "2003-07-25T16:20:14Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX",
-              "NGC5474"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX", "NGC5474"],
             "media_type": "image",
             "description_508": "NASA Galaxy Evolution Explorer took this ultraviolet color image of the galaxy NGC5474 on June 7, 2003. NGC5474 is located 20 million light-years from Earth and is within a group of galaxies dominated by the Messier 101 galaxy.",
             "secondary_creator": "NASA/JPL/Caltech",
@@ -62,10 +57,7 @@
             "title": "Virgo Galaxy Cluster",
             "nasa_id": "PIA07906",
             "date_created": "2005-05-05T20:19:08Z",
-            "keywords": [
-              "Virgo Galaxy Cluster",
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["Virgo Galaxy Cluster", "Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "This ultraviolet image from NASA Galaxy Evolution Explorer is of a small area of the Virgo Cluster of galaxies. ",
             "secondary_creator": "NASA/JPL-Caltech/SSC",
@@ -88,9 +80,7 @@
             "title": "Galaxy UGC10445",
             "nasa_id": "PIA04623",
             "date_created": "2003-07-25T16:11:22Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "This ultraviolet color image of the galaxy UGC10445 was taken by NASA Galaxy Evolution Explorer on June 7 and June 14, 2003. UGC10445 is a spiral galaxy located 40 million light-years from Earth.",
             "secondary_creator": "NASA/JPL/Caltech",
@@ -113,10 +103,7 @@
             "title": "Galaxy NGC5962",
             "nasa_id": "PIA04635",
             "date_created": "2003-07-25T16:20:17Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX",
-              "NGC5962"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX", "NGC5962"],
             "media_type": "image",
             "description_508": "NASA Galaxy Evolution Explorer took this ultraviolet color image of the galaxy NGC5962 on June 7, 2003. This spiral galaxy is located 90 million light-years from Earth.",
             "secondary_creator": "NASA/JPL/Caltech",
@@ -139,10 +126,7 @@
             "title": "Galaxy NGC5398",
             "nasa_id": "PIA04633",
             "date_created": "2003-07-25T16:20:12Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX",
-              "NGC5398"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX", "NGC5398"],
             "media_type": "image",
             "description_508": "This is an ultraviolet color image of the galaxy NGC5398 taken by NASA Galaxy Evolution Explorer on June 7, 2003. NGC5398 is a barred spiral galaxy located 60 million light-years from Earth.",
             "secondary_creator": "NASA/JPL/Caltech",
@@ -165,9 +149,7 @@
             "title": "Portrait of a Galaxy Life",
             "nasa_id": "PIA15656",
             "date_created": "2007-11-14T01:25:51Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "Evidence from NASA Galaxy Evolution Explorer supports the long-held notion that many galaxies begin life as smaller spirals before transforming into larger, elliptical-shaped galaxies.",
             "secondary_creator": "NASA/JPL-Caltech/CTIO/Las Campanas/Palomar",
@@ -190,11 +172,7 @@
             "title": "Galaxy Messier 83",
             "nasa_id": "PIA04629",
             "date_created": "2003-07-25T16:47:29Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX",
-              "Messier 83",
-              "spiral galaxy"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX", "Messier 83", "spiral galaxy"],
             "media_type": "image",
             "description_508": "This image of the spiral galaxy Messier 83 was taken by NASA Galaxy Evolution Explorer on June 7, 2003. Located 15 million light years from Earth and known as the Southern Pinwheel Galaxy,",
             "secondary_creator": "NASA/JPL/Caltech",
@@ -217,9 +195,7 @@
             "title": "Triple Scoop from Galaxy Hunter",
             "nasa_id": "PIA08646",
             "date_created": "2006-07-28T17:43:13Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "Located 10 million light-years away in the southern constellation Sculptor, the Silver Dollar galaxy, or NGC 253, is one of the brightest spiral galaxies in the night sky as seen in this edge-on view from NASA Galaxy Evolution Explorer.",
             "secondary_creator": "NASA/Caltech-JPL",
@@ -242,10 +218,7 @@
             "title": "Galaxy Centaurus A",
             "nasa_id": "PIA04624",
             "date_created": "2003-07-25T16:19:53Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX",
-              "Centaurus A"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX", "Centaurus A"],
             "media_type": "image",
             "description_508": "This image of the active galaxy Centaurus A was taken by NASA Galaxy Evolution Explorer on June 7, 2003. The galaxy is located 30 million light-years from Earth and is seen edge on, with a prominent dust lane across the major axis.",
             "secondary_creator": "NASA/JPL/Caltech",
@@ -266,9 +239,7 @@
           {
             "center": "JPL",
             "title": "Frankenstein Galaxy",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX"],
             "nasa_id": "PIA20695",
             "date_created": "2016-07-11T15:50:52Z",
             "media_type": "image",
@@ -293,10 +264,7 @@
             "title": "Galaxy NGC 55",
             "nasa_id": "PIA04923",
             "date_created": "2003-12-10T23:07:54Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX",
-              "NGC 55"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX", "NGC 55"],
             "media_type": "image",
             "description_508": "This image of the nearby edge-on spiral galaxy NGC 55 was taken by NASA Galaxy Evolution Explorer on September 14, 2003, during 2 orbits. This galaxy lies 5.4 million light years from our Milky Way galaxy.",
             "secondary_creator": "NASA/JPL/California Institute of Technology",
@@ -319,10 +287,7 @@
             "title": "Galaxy NGC 247",
             "nasa_id": "PIA04922",
             "date_created": "2003-12-10T23:07:50Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX",
-              "NCG 247"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX", "NCG 247"],
             "media_type": "image",
             "description_508": "This image of the dwarf spiral galaxy NGC 247 was taken by NASA Galaxy Evolution Explorer on October 13, 2003, in a single orbit exposure of 1600 seconds.",
             "secondary_creator": "NASA/JPL/California Institute of Technology",
@@ -343,12 +308,7 @@
           {
             "center": "GSFC",
             "title": "Astronomers Set a New Galaxy Distance Record",
-            "keywords": [
-              "Hubble",
-              "HST",
-              "Hubble Space Telescope",
-              "galaxy"
-            ],
+            "keywords": ["Hubble", "HST", "Hubble Space Telescope", "galaxy"],
             "nasa_id": "astronomers-set-a-new-galaxy-distance-record_17389972462_o",
             "date_created": "2015-05-06T00:00:00Z",
             "media_type": "image",
@@ -371,10 +331,7 @@
             "title": "Barred Spiral Galaxy NGC 1365",
             "nasa_id": "PIA07901",
             "date_created": "2005-05-05T19:57:21Z",
-            "keywords": [
-              "NGC 1365",
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["NGC 1365", "Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "This ultraviolet image from NASA Galaxy Evolution Explorer shows barred spiral galaxy NGC 1365, which is a member of the Fornax Cluster of Galaxies.",
             "secondary_creator": "NASA/JPL-Caltech/SSC",
@@ -397,9 +354,7 @@
             "title": "Little Galaxies Pack a Big Punch",
             "nasa_id": "PIA14090",
             "date_created": "2011-04-21T17:00:27Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "These postage-stamp images taken by NASA Galaxy Evolution Explorer are helping to solve a mystery -- why do the littlest of galaxies produce the biggest of star explosions, or supernovae?",
             "secondary_creator": "NASA/JPL-Caltech",
@@ -422,10 +377,7 @@
             "title": "Baby Galaxies in the Adult Universe",
             "nasa_id": "PIA07142",
             "date_created": "2004-12-21T22:53:25Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX",
-              "artist concept"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX", "artist concept"],
             "media_type": "image",
             "description_508": "Surveying thousands of nearby galaxies with its highly sensitive ultraviolet eyes, NASA Galaxy Evolution Explorer spotted three dozen that greatly resemble youthful galaxies from billions of years ago. This is an artist's concept.",
             "secondary_creator": "NASA/JPL-Caltech",
@@ -448,10 +400,7 @@
             "title": "A Barred Spiral  Galaxy, and the Small Elliptical Companion Galaxy NGC 1097A",
             "nasa_id": "PIA07900",
             "date_created": "2005-05-05T19:43:49Z",
-            "keywords": [
-              "NGS 1097",
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["NGS 1097", "Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "This ultraviolet image from NASA Galaxy Evolution Explorer shows the interacting pair NGC 1097, a barred spiral galaxy, and the small elliptical companion galaxy NGC 1097A.",
             "secondary_creator": "NASA/JPL-Caltech/SSC",
@@ -474,9 +423,7 @@
             "title": "Galaxy Pencil-Thin Profile",
             "nasa_id": "PIA17246",
             "date_created": "2013-06-28T20:00:02Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "This image from NASA Galaxy Evolution Explorer shows NGC 4565, one of the nearest and brightest galaxies not included in the famous list by 18th-century comet hunter Charles Messier.",
             "secondary_creator": "NASA/JPL-Caltech",
@@ -499,9 +446,7 @@
             "title": "Seeing Baby Dwarf Galaxies",
             "nasa_id": "PIA11805",
             "date_created": "2009-02-18T17:28:30Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "The unique ultraviolet vision of NASA Galaxy Evolution Explorer revealed, for the first time, dwarf galaxies forming out of nothing more than pristine gas likely leftover from the early universe.",
             "secondary_creator": "NASA/JPL-Caltech/DSS",
@@ -524,9 +469,7 @@
             "title": "Adding up Stars in a Galaxy",
             "nasa_id": "PIA12174",
             "date_created": "2009-08-19T17:00:40Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "NASA Galaxy Evolution Explorer spacecraft and Cerro Tololo Inter-American Observatory combined data making this diagram illustratrating the extent to which astronomers have been underestimating the proportion of small to big stars in certain galaxies.",
             "secondary_creator": "NASA/JPL-Caltech",
@@ -549,10 +492,7 @@
             "title": "Galaxy NGC 300",
             "nasa_id": "PIA04924",
             "date_created": "2003-12-10T23:07:57Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX",
-              "NGC 300"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX", "NGC 300"],
             "media_type": "image",
             "description_508": "This image of the nearby spiral galaxy NGC 300 was taken by NASA Galaxy Evolution Explorer in a single orbit exposure of 27 minutes on October 10, 2003.",
             "secondary_creator": "NASA/JPL/California Institute of Technology",
@@ -575,10 +515,7 @@
             "title": "Irregular Dwarf Galaxy IC 1613",
             "nasa_id": "PIA07911",
             "date_created": "2005-05-05T20:29:30Z",
-            "keywords": [
-              "IC 1613",
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["IC 1613", "Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "This ultraviolet image left and visual image right from NASA Galaxy Evolution Explorer is of the irregular dwarf galaxy IC 1613.",
             "secondary_creator": "NASA/JPL-Caltech/SSC",
@@ -601,10 +538,7 @@
             "title": "Galaxy M101",
             "nasa_id": "PIA04630",
             "date_created": "2003-07-25T16:20:05Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX",
-              "M101"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX", "M101"],
             "media_type": "image",
             "description_508": "This three-color image of galaxy M101 was taken by NASA Galaxy Evolution Explorer on June 20, 2003. The far ultraviolet emissions are shown in blue, the near ultraviolet emissions are green, and the red emissions, taken from NASA Digital Sky Survey.",
             "secondary_creator": "NASA/JPL/Caltech",
@@ -627,9 +561,7 @@
             "title": "Amazing Andromeda Galaxy",
             "nasa_id": "PIA08787",
             "date_created": "2006-09-28T23:38:45Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX,Spitzer Space Telescope"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX,Spitzer Space Telescope"],
             "media_type": "image",
             "description_508": "The many personalities of our great galactic neighbor, the Andromeda galaxy, are exposed in this new composite image from NASA Galaxy Evolution Explorer and Spitzer Space Telescope. ",
             "secondary_creator": "NASA/JPL-Caltech",
@@ -652,10 +584,7 @@
             "title": "Southern Pinwheel Galaxy M83",
             "nasa_id": "PIA07903",
             "date_created": "2005-05-05T20:05:07Z",
-            "keywords": [
-              "M83",
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["M83", "Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "Ultraviolet images such as this one from NASA Galaxy Evolution Explorer suggest the M83 has unusual pockets of star formation separated by large distances from the spiral arms in the main disk of the galaxy.",
             "secondary_creator": "NASA/JPL-Caltech/SSC",
@@ -678,10 +607,7 @@
             "title": "Mysterious Blob Galaxies Revealed",
             "nasa_id": "PIA07220",
             "date_created": "2005-01-11T17:11:23Z",
-            "keywords": [
-              "Spitzer Space Telescope",
-              "galaxy"
-            ],
+            "keywords": ["Spitzer Space Telescope", "galaxy"],
             "media_type": "image",
             "description_508": "Blobs are intensely glowing clouds of hot hydrogen gas that envelop faraway galaxies. NASA Spitzer Space Telescope was able to see the dusty galaxies tucked inside one well-known blob located 11 billion light-years away.",
             "secondary_creator": "NASA/JPL-Caltech",
@@ -704,9 +630,7 @@
             "title": "New Galaxy Quest Readies for Launch",
             "nasa_id": "PIA04264",
             "date_created": "2003-03-19T19:16:27Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "In the Multi-Payload Processing Facility, workers check the deployment of the cover of the telescope on NASA Galaxy Evolution Explorer, an orbiting space telescope observing galaxies in ultraviolet light across 10 billion years of cosmic history.",
             "secondary_creator": "NASA",
@@ -729,10 +653,7 @@
             "title": "Galaxy Messier 51",
             "nasa_id": "PIA04628",
             "date_created": "2003-07-25T16:20:03Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX",
-              "Messier 51"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX", "Messier 51"],
             "media_type": "image",
             "description_508": "NASA Galaxy Evolution Explorer took this image of the spiral galaxy Messier 51 on June 19 and 20, 2003. Messier 51 is located 27 million light-years from Earth.",
             "secondary_creator": "NASA/JPL/Caltech",
@@ -755,10 +676,7 @@
             "title": "Edge-on Galaxy",
             "nasa_id": "PIA04213",
             "date_created": "1999-12-30T00:00:01Z",
-            "keywords": [
-              "Edge-on Galaxy ESO 510 G13",
-              "Hubble Space Telescope"
-            ],
+            "keywords": ["Edge-on Galaxy ESO 510 G13", "Hubble Space Telescope"],
             "media_type": "image",
             "description_508": "NASA Hubble Space Telescope has imaged an unusual edge-on galaxy, revealing remarkable details of its warped dusty disc and showing how colliding galaxies trigger the birth of new stars. ",
             "secondary_creator": "NASA/Space Telescope Science Institute",
@@ -781,10 +699,7 @@
             "title": "Galaxy Evolution Explorer Celebrates Five Years in Space",
             "nasa_id": "PIA10600",
             "date_created": "2008-04-28T20:24:15Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX",
-              "M106"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX", "M106"],
             "media_type": "image",
             "description_508": "Since its launch five years ago, the Galaxy Evolution Explorer has photographed hundreds of millions of galaxies in ultraviolet light. M106 is one of those galaxies, 22 light years away.",
             "secondary_creator": "NASA/JPL-Caltech",
@@ -807,10 +722,7 @@
             "title": "Diverse Group of Galaxy Types, NGC 3190 Field",
             "nasa_id": "PIA07907",
             "date_created": "2005-05-05T20:20:56Z",
-            "keywords": [
-              "NGC 3190",
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["NGC 3190", "Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "This ultraviolet image from NASA Galaxy Evolution Explorer is of a diverse group of galaxy types. NGC 3190 is a dusty edge on spiral galaxy. NGC 3187 is highly distorted. ",
             "secondary_creator": "NASA/JPL-Caltech/SSC",
@@ -833,10 +745,7 @@
             "title": "Beyond the Borders of a Galaxy",
             "nasa_id": "PIA10373",
             "date_created": "2008-04-16T17:00:01Z",
-            "keywords": [
-              "Messier 83",
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["Messier 83", "Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "The outlying regions around the Southern Pinwheel galaxy, or M83, are highlighted in this composite image from NASA Galaxy Evolution Explorer and the National Science Foundation Very Large Array in New Mexico.",
             "secondary_creator": "NASA/JPL-Caltech/VLA/MPIA",
@@ -859,10 +768,7 @@
             "title": "Classic Galaxy with Glamour",
             "nasa_id": "PIA07828",
             "date_created": "2005-04-11T17:04:00Z",
-            "keywords": [
-              "NGC 300",
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["NGC 300", "Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "Young hot blue stars dominate the outer spiral arms of nearby galaxy NGC 300, while the older stars congregate in the nuclear regions which appear yellow-green in this image from NASA Galaxy Evolution Explorer.",
             "secondary_creator": "NASA/JPL-Caltech/OCIW",
@@ -885,10 +791,7 @@
             "title": "Galaxy NGC 1850",
             "nasa_id": "PIA04221",
             "date_created": "1999-12-03T00:00:01Z",
-            "keywords": [
-              "Galaxy NGC 1850",
-              "Hubble Space Telescope"
-            ],
+            "keywords": ["Galaxy NGC 1850", "Hubble Space Telescope"],
             "media_type": "image",
             "description_508": "By spying on a neighboring galaxy, NASA Hubble Space Telescope has captured an image of a young, globular-like star cluster—a type of object unknown in our Milky Way Galaxy.",
             "secondary_creator": "NASA, ESA, and Martino Romaniello European Southern Observatory, Germany",
@@ -911,10 +814,7 @@
             "title": "Galaxy M82",
             "nasa_id": "PIA04218",
             "date_created": "1999-12-02T00:00:05Z",
-            "keywords": [
-              "M82 Galaxy",
-              "Hubble Space Telescope"
-            ],
+            "keywords": ["M82 Galaxy", "Hubble Space Telescope"],
             "media_type": "image",
             "description_508": "A colorful image showing violent star formation triggered when two galaxies bumped into each other has been captured by NASA Hubble Space Telescope.",
             "secondary_creator": "NASA, ESA, R. de Grijs Institute of Astronomy, Cambridge, UK",
@@ -937,9 +837,7 @@
             "title": "Galaxies Grow from Inside Out",
             "nasa_id": "PIA17554",
             "date_created": "2013-10-31T20:39:15Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX,Wide-field Infrared Survey Exp"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX,Wide-field Infrared Survey Exp"],
             "media_type": "image",
             "description_508": "Evidence from NASA Wide-field Infrared Survey Explorer and Galaxy Evolution Explorer missions provide support for the inside-out theory of galaxy evolution, which holds that star formation starts at the core of the galaxy and spreads outward.",
             "secondary_creator": "NASA/JPL-Caltech",
@@ -962,10 +860,7 @@
             "title": "Face on Barred and Ringed Spiral Galaxy NGC 3351",
             "nasa_id": "PIA07909",
             "date_created": "2005-05-05T20:24:42Z",
-            "keywords": [
-              "NGC 335",
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["NGC 335", "Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "This ultraviolet image from NASA Galaxy Evolution Explorer left and visual image right of the face on barred and ringed spiral galaxy NGC 3351 M95.",
             "secondary_creator": "NASA/JPL-Caltech/SSC",
@@ -988,9 +883,7 @@
             "title": "Older Galaxy Pair Has Surprisingly Youthful Glow",
             "nasa_id": "PIA09106",
             "date_created": "2007-01-16T20:26:37Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX,Spitzer Space Telescope"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX,Spitzer Space Telescope"],
             "media_type": "image",
             "description_508": "NASA Galaxy Evolution Explorer and Spitzer Space Telescope combined to show a pair of interacting galaxies might be experiencing the galactic equivalent of a mid-life crisis. ",
             "secondary_creator": "NASA/JPL-Caltech/ETSU",
@@ -1013,10 +906,7 @@
             "title": "Artist Concept of Galaxy Evolution Explorer",
             "nasa_id": "PIA04234",
             "date_created": "2002-12-21T10:47:21Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX",
-              "artist concept"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX", "artist concept"],
             "media_type": "image",
             "description_508": "NASA's Galaxy Evolution Explorer was launched on April 28, 2003. Its mission is to study the shape, brightness, size and distance of galaxies across 10 billion years of cosmic history. This is an artist concept.",
             "secondary_creator": "NASA/JPL-Caltech",
@@ -1037,10 +927,7 @@
           {
             "center": "JPL",
             "title": "Gargantuan Super Spiral Galaxies Loom Large in the Cosmos",
-            "keywords": [
-              "Sloan Digital Sky Survey SDSS",
-              "spiral galaxy"
-            ],
+            "keywords": ["Sloan Digital Sky Survey SDSS", "spiral galaxy"],
             "nasa_id": "PIA20064",
             "date_created": "2016-03-17T15:52:54Z",
             "media_type": "image",
@@ -1091,10 +978,7 @@
             "title": "What Feeds the Beast in a Galaxy Cluster?",
             "nasa_id": "PIA19837",
             "date_created": "2015-09-10T16:50:02Z",
-            "keywords": [
-              "Hubble Space Telescope,Spitzer Space Telescope",
-              "Galaxy"
-            ],
+            "keywords": ["Hubble Space Telescope,Spitzer Space Telescope", "Galaxy"],
             "media_type": "image",
             "description_508": "A massive cluster of galaxies, called SpARCS1049+56, can be seen in this multi-wavelength view from NASA Hubble and Spitzer space telescopes.",
             "secondary_creator": "NASA/STScI/ESA/JPL-Caltech/McGill",
@@ -1117,10 +1001,7 @@
             "title": "Galaxy NGC 4013",
             "nasa_id": "PIA04217",
             "date_created": "1999-12-15T00:00:01Z",
-            "keywords": [
-              "Galaxy NGC 4013",
-              "Hubble Space Telescope"
-            ],
+            "keywords": ["Galaxy NGC 4013", "Hubble Space Telescope"],
             "media_type": "image",
             "description_508": "An amazing edge-on view of a spiral galaxy 55 million light years from Earth has been captured by the Hubble Space Telescope. The image reveals in great detail huge clouds of dust and gas extending along and above the galaxy main disk. ",
             "secondary_creator": "NASA and the Hubble Heritage Team STSci/AURA",
@@ -1143,10 +1024,7 @@
             "title": "Galaxy NGC 3079",
             "nasa_id": "PIA04208",
             "date_created": "1999-12-02T00:00:02Z",
-            "keywords": [
-              "Galaxy NGC 3079",
-              "Hubble Space Telescope"
-            ],
+            "keywords": ["Galaxy NGC 3079", "Hubble Space Telescope"],
             "media_type": "image",
             "description_508": "A lumpy bubble of hot gas rises from a cauldron of glowing matter in a distant galaxy, as seen by NASA Hubble Space Telescope.",
             "secondary_creator": "NASA/Space Telescope Science Institute",
@@ -1169,10 +1047,7 @@
             "title": "Galaxy NGC 3079",
             "nasa_id": "PIA04209",
             "date_created": "1999-12-02T00:00:03Z",
-            "keywords": [
-              "Galaxy NGC 3079",
-              "Hubble Space Telescope"
-            ],
+            "keywords": ["Galaxy NGC 3079", "Hubble Space Telescope"],
             "media_type": "image",
             "description_508": "A lumpy bubble of hot gas rises from a cauldron of glowing matter in a distant galaxy, as seen by NASA Hubble Space Telescope.",
             "secondary_creator": "NASA/Space Telescope Science Institute",
@@ -1195,10 +1070,7 @@
             "title": "Galaxy NGC 1512",
             "nasa_id": "PIA04219",
             "date_created": "1999-12-01T00:00:08Z",
-            "keywords": [
-              "Galaxy NGC 1512",
-              "Hubble Space Telescope"
-            ],
+            "keywords": ["Galaxy NGC 1512", "Hubble Space Telescope"],
             "media_type": "image",
             "description_508": "A rainbow of colors is captured in the center of a magnificent barred spiral galaxy, as witnessed by the three cameras of NASA Hubble Space Telescope.",
             "secondary_creator": "NASA/Space Telescope Science Institute",
@@ -1217,9 +1089,7 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000504/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "Hubble Views a Young Elliptical Galaxy",
             "keywords": [
@@ -1253,9 +1123,7 @@
             "title": "Galaxy Mission Completes Four Star-Studded Years in Space",
             "nasa_id": "PIA09337",
             "date_created": "2007-05-01T18:54:27Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "NASA Galaxy Evolution Explorer is celebrates its fourth year in space with some of M81 hottest stars. In this ultraviolet image, the magnificent M81 spiral galaxy is shown at the center.",
             "secondary_creator": "NASA/JPL-Caltech/Harvard-Smithsonian CfA",
@@ -1278,11 +1146,7 @@
             "title": "Dissection of a Galaxy",
             "nasa_id": "PIA05879",
             "date_created": "2004-05-11T20:39:12Z",
-            "keywords": [
-              "Spitzer Space Telescope",
-              "NGC 300",
-              "spiral galaxy"
-            ],
+            "keywords": ["Spitzer Space Telescope", "NGC 300", "spiral galaxy"],
             "media_type": "image",
             "description_508": "Sometimes, the best way to understand how something works is to take it apart. The same is true for galaxies like NGC 300, which NASA Spitzer Space Telescope has divided into its various parts. ",
             "secondary_creator": "NASA/JPL-Caltech",
@@ -1305,12 +1169,7 @@
             "title": "Fire within the Antennae Galaxies",
             "nasa_id": "PIA06854",
             "date_created": "2004-09-07T20:59:00Z",
-            "keywords": [
-              "Spitzer Space Telescope",
-              "galaxy",
-              "NGC 4038",
-              "NGC 4039"
-            ],
+            "keywords": ["Spitzer Space Telescope", "galaxy", "NGC 4038", "NGC 4039"],
             "media_type": "image",
             "description_508": "This false-color image from NASA Spitzer Space Telescope reveals hidden populations of newborn stars at the heart of the colliding Antennae galaxies. These two galaxies are known individually as NGC 4038 and 4039.",
             "secondary_creator": "NASA/JPL-Caltech/Harvard-Smithsonian CfA/NOAO/AURA",
@@ -1333,10 +1192,7 @@
             "title": "Large Face on Spiral Galaxy NGC 3344",
             "nasa_id": "PIA07904",
             "date_created": "2005-05-05T20:13:14Z",
-            "keywords": [
-              "NGC 3344",
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["NGC 3344", "Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "This ultraviolet image from NASA Galaxy Evolution Explorer is of the large face on spiral galaxy NGC 3344. The inner spiral arms are wrapped so tightly that they are difficult to distinguish.",
             "secondary_creator": "NASA/JPL-Caltech/SSC",
@@ -1359,12 +1215,7 @@
             "title": "Life at the Intersection of Colliding Galaxies",
             "nasa_id": "PIA06853",
             "date_created": "2004-09-07T20:58:00Z",
-            "keywords": [
-              "Spitzer Space Telescope",
-              "galaxy",
-              "NGC 4038",
-              "NGC 4039"
-            ],
+            "keywords": ["Spitzer Space Telescope", "galaxy", "NGC 4038", "NGC 4039"],
             "media_type": "image",
             "description_508": "This false-color image from NASA Spitzer Space Telescope reveals hidden populations of newborn stars at the heart of the colliding Antennae galaxies. These two galaxies are known individually as NGC 4038 and 4039.",
             "secondary_creator": "NASA/JPL-Caltech/Harvard-Smithsonian CfA",
@@ -1387,10 +1238,7 @@
             "title": "Whirlpool Galaxy",
             "nasa_id": "PIA04230",
             "date_created": "1999-12-04T00:00:01Z",
-            "keywords": [
-              "Whirlpool Galaxy",
-              "Hubble Space Telescope"
-            ],
+            "keywords": ["Whirlpool Galaxy", "Hubble Space Telescope"],
             "media_type": "image",
             "description_508": "The image from NASA Hubble Telescope shows spiral arms and dust clouds in the nearby Whirlpool galaxy. Visible starlight and light from the emission of glowing hydrogen is seen, which is associated with the most luminous young stars in the spiral arms.",
             "secondary_creator": "NASA and The Hubble Heritage Team STScI/AURA Acknowledgement: N. Scoville Caltech and T. Rector NOAO",
@@ -1413,10 +1261,7 @@
             "title": "Barred Ring Galaxy NGC 1291",
             "nasa_id": "PIA07910",
             "date_created": "2005-05-05T20:26:27Z",
-            "keywords": [
-              "NGC 1291",
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["NGC 1291", "Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "This ultraviolet image left and visual image right from NASA Galaxy Evolution Explorer is of the barred ring galaxy NGC 1291. The VIS image is dominated by the inner disk and bar. The UV image is dominated by the low surface brightness outer arms.",
             "secondary_creator": "NASA/JPL-Caltech/SSC",
@@ -1439,10 +1284,7 @@
             "title": "Interacting Group of Galaxies Known as Stephan Quintet",
             "nasa_id": "PIA07905",
             "date_created": "2005-05-05T20:16:38Z",
-            "keywords": [
-              "Stephan Quintet,NGC 7331",
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["Stephan Quintet,NGC 7331", "Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "This ultraviolet image from NASA Galaxy Evolution Explorer is of the interacting group of galaxies known as Stephan Quintet NGC 7317, NGC 7318A, NGC 7318B, NGC 7319, NGC 7320, lower left.",
             "secondary_creator": "NASA/JPL-Caltech/SSC",
@@ -1463,9 +1305,7 @@
           {
             "center": "GSFC",
             "title": "The Two-faced Whirlpool Galaxy",
-            "keywords": [
-              "The Two-faced Whirlpool Galaxy"
-            ],
+            "keywords": ["The Two-faced Whirlpool Galaxy"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e001925",
             "date_created": "2011-01-13T21:07:55Z",
@@ -1485,9 +1325,7 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001569/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "Hubble Views a Dwarf Galaxy",
             "keywords": [
@@ -1520,9 +1358,7 @@
           {
             "center": "GSFC",
             "title": "Hubble peeks at a spiral galaxy",
-            "keywords": [
-              "Hubble peeks at a spiral galaxy"
-            ],
+            "keywords": ["Hubble peeks at a spiral galaxy"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e000687",
             "date_created": "2015-07-10T18:26:01Z",
@@ -1546,10 +1382,7 @@
             "title": "Backwards Spiral Galaxy",
             "nasa_id": "PIA04224",
             "date_created": "1999-12-01T00:00:09Z",
-            "keywords": [
-              "Galaxy NGC 4622",
-              "Hubble Space Telescope"
-            ],
+            "keywords": ["Galaxy NGC 4622", "Hubble Space Telescope"],
             "media_type": "image",
             "description_508": "Astronomers using NASA Hubble Space Telescope have found a spiral galaxy that may rotate in the opposite direction from what was expected. ",
             "secondary_creator": "NASA and the Hubble Heritage Team STScI/AURA Acknowledgment: Dr. Ron Buta U. Alabama, Dr. Gene Byrd U. Alabama and Tarsh Freeman Bevill State Comm. College",
@@ -1568,15 +1401,10 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000154/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "Hubble Spotlight on Irregular Galaxy",
-            "keywords": [
-              "Hubble Spotlight on Irregular Galaxy",
-              "ic3583"
-            ],
+            "keywords": ["Hubble Spotlight on Irregular Galaxy", "ic3583"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e000154",
             "date_created": "2017-12-08T00:00:00Z",
@@ -1596,15 +1424,10 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000022/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "Hubble’s Hidden Galaxy",
-            "keywords": [
-              "Hubble’s Hidden Galaxy",
-              "ic342"
-            ],
+            "keywords": ["Hubble’s Hidden Galaxy", "ic342"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e000022",
             "date_created": "2017-12-08T00:00:00Z",
@@ -1626,9 +1449,7 @@
           {
             "center": "GSFC",
             "title": "Hubble Spies a Loopy Galaxy",
-            "keywords": [
-              "Hubble Spies a Loopy Galaxy"
-            ],
+            "keywords": ["Hubble Spies a Loopy Galaxy"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e000798",
             "date_created": "2015-02-02T18:38:12Z",
@@ -1648,15 +1469,10 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000017/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "Hubble’s Hunting Dog Galaxy",
-            "keywords": [
-              "Hubble’s Hunting Dog Galaxy",
-              "ngc4242"
-            ],
+            "keywords": ["Hubble’s Hunting Dog Galaxy", "ngc4242"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e000017",
             "date_created": "2017-12-08T00:00:00Z",
@@ -1680,10 +1496,7 @@
             "title": "Galaxy Evolution Explorer Spies Band of Stars",
             "nasa_id": "PIA09653",
             "date_created": "2007-06-20T22:00:14Z",
-            "keywords": [
-              "NGC 362",
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["NGC 362", "Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "NASA Galaxy Evolution Explorer ultraviolet eyes have captured a globular star cluster, called NGC 362, in our own Milky Way galaxy. In this new image, the cluster appears next to stars from a more distant neighboring galaxy, known as the Small Magella",
             "secondary_creator": "NASA/JPL-Caltech/Univ. of Virginia",
@@ -1704,9 +1517,7 @@
           {
             "center": "GSFC",
             "title": "Lonely Galaxy Lost in Space",
-            "keywords": [
-              "Lonely Galaxy Lost in Space"
-            ],
+            "keywords": ["Lonely Galaxy Lost in Space"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e000710",
             "date_created": "2015-06-10T19:01:44Z",
@@ -1726,15 +1537,10 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000268/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "Hubble Spots a Secluded Starburst Galaxy",
-            "keywords": [
-              "Hubble Spots a Secluded Starburst Galaxy",
-              "mcg0733027"
-            ],
+            "keywords": ["Hubble Spots a Secluded Starburst Galaxy", "mcg0733027"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e000268",
             "date_created": "2017-12-08T00:00:00Z",
@@ -1812,9 +1618,7 @@
             "title": "Ultraviolet Ring Around the Galaxies",
             "nasa_id": "PIA13318",
             "date_created": "2010-08-11T17:00:36Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX,Hubble Space Telescope"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX,Hubble Space Telescope"],
             "media_type": "image",
             "description_508": "Astronomers have found unexpected rings and arcs of ultraviolet light around a selection of galaxies, four of which are shown here as viewed by NASA and the European Space Agency Hubble Space Telescope.",
             "secondary_creator": "NASA/ESA /JPL-Caltech/STScI /UCLA",
@@ -1837,10 +1641,7 @@
             "title": "Starburst Galaxy NGC 3310",
             "nasa_id": "PIA04229",
             "date_created": "1999-12-07T00:00:01Z",
-            "keywords": [
-              "Galaxy NGC 3310",
-              "Hubble Space Telescope"
-            ],
+            "keywords": ["Galaxy NGC 3310", "Hubble Space Telescope"],
             "media_type": "image",
             "description_508": "Scientists using NASA Hubble Space Telescope are studying the colors of star clusters to determine the age and history of starburst galaxies, a technique somewhat similar to the process of learning the age of a tree by counting its rings.",
             "secondary_creator": "NASA and The Hubble Heritage Team STScI/AURA Acknowledgment: G.R. Meurer and T.M. Heckman JHU, and C. Leitherer, J. Harris and D. Calzetti STScI, M. Sirianni JHU",
@@ -1863,10 +1664,7 @@
             "date_created": "2022-06-16T00:00:00Z",
             "description": "This image of the Triangulum galaxy, or M33, includes data from the ESA (European Space Agency) Herschel mission, supplemented with data from ESA's retired Planck observatory and two retired NASA missions: the Infrared Astronomical Satellite (IRAS) and Cosmic Background Explorer (COBE).      Operated from 2009 to 2013, Herschel detected wavelengths of light in the far-infrared and microwave ranges, and was ideal for studying dust in nearby galaxies because it could capture small-scale structures in the dust clouds in high resolution. However, Herschel often couldn't detect light from diffuse dust clouds – especially in the outer regions of galaxies, where the gas and dust become sparse and thus fainter. As a result, the mission missed up to 30% of all the light given off by dust. Combining the Herschel observations with data from other observatories creates a more complete picture of the dust in the galaxy.      In the image, red indicates hydrogen gas; green indicates cold dust; and warmer dust is shown in blue. Launched in 1983, IRAS was the first space telescope to detect infrared light, setting the stage for future observatories like NASA's Spitzer Space Telescope and James Webb Space Telescope. The Planck observatory, launched in 2009, and COBE, launched in 1989, both studied the cosmic microwave background, or light left over from the big bang.      The hydrogen gas was detected using the Green Bank Telescope in West Virginia, the Karl G. Jansky Very Large Array in New Mexico, and the Institute for Radio Astronomy in the Millimeter Range 30-meter telescope in Spain.  https://photojournal.jpl.nasa.gov/catalog/PIA25165",
             "description_508": "The Triangulum galaxy, or M33, is shown here in far-infrared and radio wavelengths of light.",
-            "keywords": [
-              "Herschel Space Observatory",
-              "Triangulum Galaxy"
-            ],
+            "keywords": ["Herschel Space Observatory", "Triangulum Galaxy"],
             "media_type": "image",
             "nasa_id": "PIA25165",
             "secondary_creator": "ESA/NASA/JPL-Caltech/GBT/VLA/IRAM/C. Clark (STScI)",
@@ -1889,10 +1687,7 @@
             "date_created": "2022-06-16T00:00:00Z",
             "description": "This image of the Andromeda galaxy, or M31, includes data from the ESA (European Space Agency) Herschel mission, supplemented with data from ESA's retired Planck observatory and two retired NASA missions: the Infrared Astronomical Satellite (IRAS) and Cosmic Background Explorer (COBE).      Operated from 2009 to 2013, Herschel detected wavelengths of light in the far-infrared and microwave ranges, and was ideal for studying dust in nearby galaxies because it could capture small-scale structures in the dust clouds in high resolution. However, Herschel often couldn't detect light from diffuse dust clouds – especially in the outer regions of galaxies, where the gas and dust become sparse and thus fainter. As a result, the mission missed up to 30% of all the light given off by dust. Combining the Herschel observations with data from other observatories creates a more complete picture of the dust in the galaxy.      In the image, red indicates hydrogen gas; green indicates cold dust; and warmer dust is shown in blue. Launched in 1983, IRAS was the first space telescope to detect infrared light, setting the stage for future observatories like NASA's Spitzer Space Telescope and James Webb Space Telescope. The Planck observatory, launched in 2009, and COBE, launched in 1989, both studied the cosmic microwave background, or light left over from the big bang.      Red indicates hydrogen gas detected using the Green Bank Telescope in West Virginia, the Westerbork Synthesis Radio Telescope in the Netherlands, and the Institute for Radio Astronomy in the Millimeter Range 30-meter telescope in Spain.  https://photojournal.jpl.nasa.gov/catalog/PIA25163",
             "description_508": "The Andromeda galaxy, or M31, is shown here in far-infrared and radio wavelengths of light.",
-            "keywords": [
-              "Herschel Space Observatory",
-              "Andromeda Galaxy"
-            ],
+            "keywords": ["Herschel Space Observatory", "Andromeda Galaxy"],
             "media_type": "image",
             "nasa_id": "PIA25163",
             "secondary_creator": "ESA/NASA/JPL-Caltech/GBT/WSRT/IRAM/C. Clark (STScI)",
@@ -1913,9 +1708,7 @@
           {
             "center": "GSFC",
             "title": "Hubble Eyes a Powerful Galaxy",
-            "keywords": [
-              "Hubble Eyes a Powerful Galaxy"
-            ],
+            "keywords": ["Hubble Eyes a Powerful Galaxy"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e000025",
             "date_created": "2017-06-30T17:03:34Z",
@@ -1939,9 +1732,7 @@
             "title": "NGC 4569",
             "nasa_id": "PIA10115",
             "date_created": "2007-11-14T18:50:03Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "This image from NASA Galaxy Evolution Explorer shows the galaxy NGC 4569 in the constellation Virgo. It is one of the largest and brightest spiral galaxies found in the Virgo cluster of galaxies, the nearest major galaxy cluster to our Milky Way galaxy.",
             "secondary_creator": "NASA/JPL-Caltech/Palomar",
@@ -1960,9 +1751,7 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000033/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "Hubble Captures Massive Dead Disk Galaxy that Challenges Theories of Galaxy Evolution",
             "keywords": [
@@ -1991,12 +1780,7 @@
           {
             "center": "JPL",
             "title": "NASA's Hubble Spots Embryonic Galaxy SPT0615-JD",
-            "keywords": [
-              "Hubble Space Telescope",
-              "Galaxy",
-              "SPT0615-JD",
-              "gravitational lensing"
-            ],
+            "keywords": ["Hubble Space Telescope", "Galaxy", "SPT0615-JD", "gravitational lensing"],
             "nasa_id": "PIA22079",
             "date_created": "2018-01-11T00:00:00Z",
             "media_type": "image",
@@ -2021,9 +1805,7 @@
             "title": "Dwarf Galaxy Spotted",
             "nasa_id": "PIA16613",
             "date_created": "2013-01-10T20:44:01Z",
-            "keywords": [
-              "ESO Very Large Telescope,Galaxy Evolution Explorer GALEX,Spitz"
-            ],
+            "keywords": ["ESO Very Large Telescope,Galaxy Evolution Explorer GALEX,Spitz"],
             "media_type": "image",
             "description_508": "This composite of the giant barred spiral galaxy NGC 6872 is 522,000 light-years across, making it about five times the size of the Milky Way.",
             "secondary_creator": "NASA Goddard Space Flight Center/ESO/JPL-Caltech/DSS",
@@ -2044,11 +1826,7 @@
           {
             "center": "GSFC",
             "title": "Hubble Reveals Stellar Fireworks in ‘Skyrocket’ Galaxy",
-            "keywords": [
-              "Hubble",
-              "Galaxy",
-              "Kiso 5639"
-            ],
+            "keywords": ["Hubble", "Galaxy", "Kiso 5639"],
             "nasa_id": "hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o",
             "date_created": "2016-06-29T00:00:00Z",
             "media_type": "image",
@@ -2067,14 +1845,10 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001262/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "spiral galaxy M83",
-            "keywords": [
-              "spiral galaxy M83"
-            ],
+            "keywords": ["spiral galaxy M83"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e001262",
             "date_created": "2017-12-08T00:00:00Z",
@@ -2094,9 +1868,7 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000278/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "Hubble Reveals Stellar Fireworks in ‘Skyrocket’ Galaxy",
             "keywords": [
@@ -2125,15 +1897,10 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000492/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "Hubble Views Two Galaxies Merging",
-            "keywords": [
-              "Hubble Views Two Galaxies Merging",
-              "ngc6052"
-            ],
+            "keywords": ["Hubble Views Two Galaxies Merging", "ngc6052"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e000492",
             "date_created": "2017-12-08T00:00:00Z",
@@ -2153,15 +1920,10 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000117/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "Hubble's Glittering Frisbee Galaxy",
-            "keywords": [
-              "Hubble's Glittering Frisbee Galaxy",
-              "ngc1448"
-            ],
+            "keywords": ["Hubble's Glittering Frisbee Galaxy", "ngc1448"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e000117",
             "date_created": "2017-12-08T00:00:00Z",
@@ -2185,9 +1947,7 @@
             "title": "Now You See a Tail, Now You Dont",
             "nasa_id": "PIA13192",
             "date_created": "2010-06-17T18:00:06Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "NASA Galaxy Evolution Explorer found a tail behind a galaxy called IC 3418. This star-studded tail was created as the galaxy plunged into gas in a family of galaxies known as the Virgo cluster.",
             "secondary_creator": "NASA/JPL-Caltech",
@@ -2206,9 +1966,7 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000825/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "Hubble Views 'Third Kind' of Galaxy",
             "keywords": [
@@ -2243,9 +2001,7 @@
             "title": "Nearby Newborns",
             "nasa_id": "PIA07143",
             "date_created": "2004-12-21T22:57:07Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "This image shows six of the three-dozen ultraviolet luminous galaxies spotted in our corner of the universe by NASA Galaxy Evolution Explorer. These massive galaxies greatly resemble newborn galaxies that were common in the early universe.",
             "secondary_creator": "NASA/JPL-Caltech/Johns Hopkins",
@@ -2264,9 +2020,7 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000506/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "A Galaxy at the Center of the Hubble Tuning Fork",
             "keywords": [
@@ -2374,15 +2128,10 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000052/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "Hubble Catches a Galaxy Duo by the \"Hare\"",
-            "keywords": [
-              "Hubble Catches a Galaxy Duo by the \"Hare\"",
-              "iras060762139"
-            ],
+            "keywords": ["Hubble Catches a Galaxy Duo by the \"Hare\"", "iras060762139"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e000052",
             "date_created": "2017-12-08T00:00:00Z",
@@ -2406,9 +2155,7 @@
             "title": "Happy Anniversary to a Galactic Explorer",
             "nasa_id": "PIA05979",
             "date_created": "2004-05-24T14:58:00Z",
-            "keywords": [
-              "Galaxy Evolution Explorer GALEX"
-            ],
+            "keywords": ["Galaxy Evolution Explorer GALEX"],
             "media_type": "image",
             "description_508": "The Galaxy Evolution Explorer specializes in surveying galaxies in ultraviolet light. The telescope surveyed thousands of galaxies before finding three-dozen of these newborns. ",
             "secondary_creator": "NASA/JPL/Caltech",
@@ -2427,14 +2174,10 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000056/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "A Lot of Galaxies Need Guarding in this NASA Hubble View",
-            "keywords": [
-              "A Lot of Galaxies Need Guarding in this NASA Hubble View"
-            ],
+            "keywords": ["A Lot of Galaxies Need Guarding in this NASA Hubble View"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e000056",
             "date_created": "2017-12-08T00:00:00Z",
@@ -2456,9 +2199,7 @@
           {
             "center": "GSFC",
             "title": "Hubble Peers at the Heart of a Spiral Galaxy",
-            "keywords": [
-              "Hubble Peers at the Heart of a Spiral Galaxy"
-            ],
+            "keywords": ["Hubble Peers at the Heart of a Spiral Galaxy"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e001172",
             "date_created": "2014-03-21T15:30:03Z",
@@ -2478,15 +2219,10 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000012/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "Hubble's Hockey Stick Galaxy",
-            "keywords": [
-              "Hubble's Hockey Stick Galaxy",
-              "ngc4656"
-            ],
+            "keywords": ["Hubble's Hockey Stick Galaxy", "ngc4656"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e000012",
             "date_created": "2017-12-08T00:00:00Z",
@@ -2506,16 +2242,10 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000001/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "Hubble's Megamaser Galaxy",
-            "keywords": [
-              "Hubble's Megamaser Galaxy",
-              "mcg0138004",
-              "mcg0138005"
-            ],
+            "keywords": ["Hubble's Megamaser Galaxy", "mcg0138004", "mcg0138005"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e000001",
             "date_created": "2017-12-08T00:00:00Z",
@@ -2535,15 +2265,10 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000158/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "Hubble Spies Spiral Galaxy",
-            "keywords": [
-              "Hubble Spies Spiral Galaxy",
-              "ngc3274"
-            ],
+            "keywords": ["Hubble Spies Spiral Galaxy", "ngc3274"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e000158",
             "date_created": "2017-12-08T00:00:00Z",
@@ -2592,11 +2317,7 @@
           {
             "center": "JPL",
             "title": "Hidden Lair at the Heart of Galaxy NGC 1068",
-            "keywords": [
-              "Hubble Space Telescope,NuSTAR",
-              "spiral galaxy",
-              "Galaxy NGC 1068"
-            ],
+            "keywords": ["Hubble Space Telescope,NuSTAR", "spiral galaxy", "Galaxy NGC 1068"],
             "nasa_id": "PIA20058",
             "date_created": "2015-12-17T16:50:02Z",
             "media_type": "image",
@@ -2617,15 +2338,10 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000262/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "Hubble Views a Galaxy Fit to Burst",
-            "keywords": [
-              "Hubble Views a Galaxy Fit to Burst",
-              "ngc3125"
-            ],
+            "keywords": ["Hubble Views a Galaxy Fit to Burst", "ngc3125"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e000262",
             "date_created": "2017-12-08T00:00:00Z",
@@ -2645,15 +2361,10 @@
         "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000499/collection.json",
         "data": [
           {
-            "album": [
-              "Test"
-            ],
+            "album": ["Test"],
             "center": "GSFC",
             "title": "Hubble View of a Galaxy Resembling an Atomic Nucleus",
-            "keywords": [
-              "Hubble View of a Galaxy Resembling an Atomic Nucleus",
-              "ngc7252"
-            ],
+            "keywords": ["Hubble View of a Galaxy Resembling an Atomic Nucleus", "ngc7252"],
             "location": "Greenbelt, MD",
             "nasa_id": "GSFC_20171208_Archive_e000499",
             "date_created": "2017-12-08T00:00:00Z",

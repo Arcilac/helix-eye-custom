@@ -1,5 +1,5 @@
-import React from 'react';
-import { StyledAstronaut } from './styles';
+import React from "react"
+import { StyledAstronaut } from "./styles"
 
 const ASTRONAUT_IMAGE = "https://i.imgur.com/tBkWIfP.png"
 

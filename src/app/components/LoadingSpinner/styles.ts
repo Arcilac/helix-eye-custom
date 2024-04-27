@@ -1,4 +1,4 @@
-import styled, { keyframes } from 'styled-components';
+import styled, { keyframes } from "styled-components"
 
 const ring = keyframes`
   0% {
@@ -22,10 +22,10 @@ export const Spinner = styled.div`
     width: 64px;
     height: 64px;
     margin: 8px;
-    border: 8px solid #2646A6;
+    border: 8px solid #2646a6;
     border-radius: 50%;
     animation: ${ring} 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
-    border-color: #2646A6 transparent transparent transparent;
+    border-color: #2646a6 transparent transparent transparent;
   }
 
   & > div:nth-child(1) {

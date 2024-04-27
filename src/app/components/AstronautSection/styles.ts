@@ -1,9 +1,9 @@
-import styled from 'styled-components';
+import styled from "styled-components"
 
 export const StyledAstronaut = styled.div`
   display: flex;
   justify-content: center;
-  grid-area: 'astronaut';
+  grid-area: "astronaut";
   width: 100%;
   height: 300px;
   position: relative;
@@ -12,7 +12,7 @@ export const StyledAstronaut = styled.div`
   box-shadow: 0px 18px 18px rgba(0, 0, 0, 0.25);
 
   .background {
-    background: linear-gradient(270deg, #2646A6,#0C87F2);
+    background: linear-gradient(270deg, #2646a6, #0c87f2);
     clip-path: polygon(0 61%, 100% 33%, 100% 100%, 0% 100%);
     height: 300px;
     width: 100%;
